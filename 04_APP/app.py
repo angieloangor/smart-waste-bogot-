@@ -17,7 +17,7 @@ st.set_page_config(
     page_title="Bogotá Residuos Inteligente | Sistema Territorial",
     page_icon="B",
     layout="wide",
-    initial_sidebar_state="expanded"
+    initial_sidebar_state="collapsed"
 )
 
 # Estilos CSS Avanzados con Recuadros / Cards Estilizados
@@ -831,18 +831,18 @@ st.markdown("""
         top: 0 !important;
         left: 0 !important;
         bottom: 0 !important;
-        width: 12px !important;
-        min-width: 12px !important;
-        max-width: 12px !important;
+        width: 4px !important;
+        min-width: 4px !important;
+        max-width: 4px !important;
         transform: none !important;
         background: transparent !important;
         border: 0 !important;
         box-shadow: none !important;
     }
     html body section[data-testid="stSidebar"] > div:first-child {
-        width: 12px !important;
-        min-width: 12px !important;
-        max-width: 12px !important;
+        width: 4px !important;
+        min-width: 4px !important;
+        max-width: 4px !important;
         padding: 0 !important;
     }
     html body section[data-testid="stSidebar"]:hover,
@@ -1419,9 +1419,9 @@ st.markdown("""
     html body section[data-testid="stSidebar"] {
         position: fixed !important;
         inset: 0 auto 0 0 !important;
-        width: 12px !important;
-        min-width: 12px !important;
-        max-width: 12px !important;
+        width: 4px !important;
+        min-width: 4px !important;
+        max-width: 4px !important;
         height: 100vh !important;
         overflow: hidden !important;
         background: transparent !important;
@@ -1431,9 +1431,9 @@ st.markdown("""
     }
     html body section[data-testid="stSidebar"] > div:first-child,
     html body section[data-testid="stSidebar"] [data-testid="stSidebarContent"] {
-        width: 12px !important;
-        min-width: 12px !important;
-        max-width: 12px !important;
+        width: 4px !important;
+        min-width: 4px !important;
+        max-width: 4px !important;
         height: 100vh !important;
         max-height: 100vh !important;
         padding: 0 !important;
