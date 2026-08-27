@@ -2105,12 +2105,25 @@ elif st.session_state.current_page == "analysis":
                 df_dataset[df_dataset['num_reportes'] > 0],
                 x='num_reportes',
                 nbins=30,
-                title="<b>Distribución de Reportes PQRS por Celda</b>",
+                title="Reportes PQRS por celda",
                 labels={'num_reportes': 'Número de Reportes Ciudadanos'},
                 color_discrete_sequence=['#0048a4']
             )
-            fig_rep.update_layout(showlegend=False, template="plotly_white", height=320, margin=dict(l=20, r=20, t=40, b=20))
-            st.plotly_chart(fig_rep, use_container_width=True)
+            fig_rep.update_traces(marker_line_width=0, opacity=0.88)
+            fig_rep.update_layout(
+                showlegend=False,
+                template="plotly_white",
+                height=390,
+                bargap=0.08,
+                margin=dict(l=58, r=22, t=58, b=58),
+                paper_bgcolor="#ffffff",
+                plot_bgcolor="#f7fafc",
+                font=dict(family="Metrophobic, sans-serif", size=13, color="#243b53"),
+                title=dict(font=dict(size=18, color="#123f59"), x=0.02, xanchor="left"),
+                xaxis=dict(showgrid=False, zeroline=False),
+                yaxis=dict(showgrid=True, gridcolor="#d9e2ec", zeroline=False)
+            )
+            st.plotly_chart(fig_rep, use_container_width=True, config={"displayModeBar": False})
             
             st.markdown("""
                 <div class="insight-card">
@@ -2128,15 +2141,28 @@ elif st.session_state.current_page == "analysis":
                 y='dist_punto_critico',
                 color='target_riesgo',
                 color_continuous_scale=['#00aa9f', '#e42037'],
-                title="<b>Distancia a Cestas vs. Distancia a Puntos Críticos</b>",
+                opacity=0.58,
+                title="Distancia a cestas vs. puntos críticos",
                 labels={
                     'dist_cesta_mas_cercana': 'Dist. a Cesta más cercana (m)',
                     'dist_punto_critico': 'Dist. a Punto Crítico (m)',
                     'target_riesgo': 'Riesgo (0/1)'
                 }
             )
-            fig_dist.update_layout(template="plotly_white", height=320, margin=dict(l=20, r=20, t=40, b=20))
-            st.plotly_chart(fig_dist, use_container_width=True)
+            fig_dist.update_traces(marker=dict(size=7, line=dict(width=0)))
+            fig_dist.update_layout(
+                template="plotly_white",
+                height=390,
+                margin=dict(l=68, r=22, t=58, b=58),
+                paper_bgcolor="#ffffff",
+                plot_bgcolor="#f7fafc",
+                font=dict(family="Metrophobic, sans-serif", size=13, color="#243b53"),
+                title=dict(font=dict(size=18, color="#123f59"), x=0.02, xanchor="left"),
+                xaxis=dict(showgrid=True, gridcolor="#d9e2ec", zeroline=False),
+                yaxis=dict(showgrid=True, gridcolor="#d9e2ec", zeroline=False),
+                coloraxis_colorbar=dict(title="Riesgo", thickness=14, len=0.75)
+            )
+            st.plotly_chart(fig_dist, use_container_width=True, config={"displayModeBar": False})
             
             st.markdown("""
                 <div class="insight-card">
