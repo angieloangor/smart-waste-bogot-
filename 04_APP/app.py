@@ -1415,6 +1415,50 @@ st.markdown("""
         opacity: 1 !important;
         transform: none !important;
     }
+    /* Correccion final: mantener el panel oculto hasta entrar en su activador */
+    html body section[data-testid="stSidebar"] {
+        position: fixed !important;
+        inset: 0 auto 0 0 !important;
+        width: 12px !important;
+        min-width: 12px !important;
+        max-width: 12px !important;
+        height: 100vh !important;
+        overflow: hidden !important;
+        background: transparent !important;
+        border: 0 !important;
+        box-shadow: none !important;
+        transform: none !important;
+    }
+    html body section[data-testid="stSidebar"] > div:first-child,
+    html body section[data-testid="stSidebar"] [data-testid="stSidebarContent"] {
+        width: 12px !important;
+        min-width: 12px !important;
+        max-width: 12px !important;
+        height: 100vh !important;
+        max-height: 100vh !important;
+        padding: 0 !important;
+        overflow: hidden !important;
+        background: transparent !important;
+    }
+    html body section[data-testid="stSidebar"]:hover {
+        width: 304px !important;
+        min-width: 304px !important;
+        max-width: 304px !important;
+        background: var(--bogota-red) !important;
+        box-shadow: 6px 0 18px rgba(51, 51, 51, 0.18) !important;
+    }
+    html body section[data-testid="stSidebar"]:hover > div:first-child,
+    html body section[data-testid="stSidebar"]:hover [data-testid="stSidebarContent"] {
+        width: 304px !important;
+        min-width: 304px !important;
+        max-width: 304px !important;
+        height: 100vh !important;
+        max-height: 100vh !important;
+        padding: 1rem !important;
+        overflow-y: auto !important;
+        overflow-x: hidden !important;
+        background: var(--bogota-red) !important;
+    }
     </style>
 """, unsafe_allow_html=True)
 
