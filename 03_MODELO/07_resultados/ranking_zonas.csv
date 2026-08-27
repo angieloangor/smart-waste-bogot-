@@ -1,0 +1,101 @@
+id_celda,loc_name,nombre_lugar,nivel_riesgo,probabilidad_riesgo,indice_prioridad,accion_recomendada,num_reportes,num_cestas,tiene_macroruta
+C08302,Santa Fe,Santa Fe • Barrio El Consuelo (Carrera 11 Este con Calle 1B 02),🔴 Alto,0.9,81.9,Inspección prioritaria por alta concentración,90.0,4.0,1
+C08303,Santa Fe,Santa Fe • Barrio El Consuelo (Calle 2#8A - 09 Este),🔴 Alto,0.94,60.16,Inspección prioritaria por alta concentración,63.0,2.0,1
+C08706,Santa Fe,Santa Fe • Barrio Sagrado Corazón (Carrera 3B # 33-40),🔴 Alto,0.87,55.68,Inspección prioritaria por alta concentración,63.0,6.0,1
+C08431,Santa Fe,Santa Fe • Barrio El Consuelo (Diagonal 2B Carrera 11C Este),🔴 Alto,0.88,42.24,Evaluar instalación de infraestructura de cestas,47.0,0.0,1
+C08705,Santa Fe,Santa Fe • Barrio Sagrado Corazón (Calle 32 # 2-15),🔴 Alto,0.85,40.8,Inspección prioritaria por alta concentración,47.0,8.0,1
+C08576,Santa Fe,Santa Fe • Barrio Sagrado Corazón (Carrera 4A # 30A - 42),🔴 Alto,0.84,40.32,Inspección prioritaria por alta concentración,47.0,20.0,1
+C07662,Santa Fe,Santa Fe • Barrio Sagrado Corazón (Carrera 9 con Calle 3A),🔴 Alto,0.94,7.52,Inspección prioritaria por alta concentración,7.0,8.0,1
+C08305,Santa Fe,Santa Fe • Barrio El Rocio (Carrera 3 Este Norte 3A 06),🔴 Alto,0.99,6.93,Evaluar instalación de infraestructura de cestas,6.0,0.0,1
+C07918,Santa Fe,Santa Fe • Barrio Las Cruces (Carrera 4 con Calle 2A 01),🔴 Alto,0.92,4.6000000000000005,Evaluar instalación de infraestructura de cestas,4.0,0.0,1
+C08834,Santa Fe,Santa Fe • Barrio Sagrado Corazón (Carrera 2 # 32-98),🔴 Alto,1.0,4.0,Inspección prioritaria por alta concentración,3.0,8.0,1
+C07790,Santa Fe,Santa Fe • Barrio Las Cruces (Carrera 6 con Calle 2B 12),🔴 Alto,1.0,2.0,Inspección prioritaria por alta concentración,1.0,6.0,1
+C03171,Kennedy,Kennedy • Carrera 90A con Calle 6 Bis,🔴 Alto,1.0,1.0,Evaluar instalación de infraestructura de cestas,0.0,0.0,1
+C00444,Bosa,Bosa • Calle 78 Sur con Carrera 77G,🔴 Alto,1.0,1.0,Inspección prioritaria por alta concentración,0.0,6.0,1
+C02781,Kennedy,Kennedy • Calle 38 Sur entre Carrera 86A 89,🔴 Alto,1.0,1.0,Inspección prioritaria por alta concentración,0.0,23.0,1
+C02878,Ciudad Bolívar,Ciudad Bolívar • Calle 74A Sur con Carrera 42,🔴 Alto,1.0,1.0,Inspección prioritaria por alta concentración,0.0,25.0,1
+C00190,Bosa,Bosa • Diagonal 89B Sur con Transversal 80I,🔴 Alto,1.0,1.0,Inspección prioritaria por alta concentración,0.0,4.0,1
+C09021,Suba,Suba • Carrera 58 con Calle 166,🔴 Alto,1.0,1.0,Inspección prioritaria por alta concentración,0.0,14.0,1
+C09005,Suba,Suba • Carrera 51A con Calle 127C,🔴 Alto,1.0,1.0,Inspección prioritaria por alta concentración,0.0,32.0,1
+C08748,Suba,Suba • Carrera 55 con Calle 128A,🔴 Alto,1.0,1.0,Inspección prioritaria por alta concentración,0.0,18.0,1
+C03398,Ciudad Bolívar,Ciudad Bolívar • Calle 68 Sur con Carrera 48,🔴 Alto,1.0,1.0,Inspección prioritaria por alta concentración,0.0,51.0,1
+C03424,Kennedy,Kennedy • Calle 5A Sur de Carrera 80A Carrera 81 con Carrera 81 de Calle 5A Sur a Calle 1,🔴 Alto,1.0,1.0,Evaluar instalación de infraestructura de cestas,0.0,0.0,1
+C03707,Fontibón,Fontibón • Carrera 120 entre Calle 22J con 22L,🔴 Alto,1.0,1.0,Inspección prioritaria por alta concentración,0.0,6.0,1
+C02749,Ciudad Bolívar,Ciudad Bolívar • Calle 76S Sur con Carrera 40,🔴 Alto,1.0,1.0,Inspección prioritaria por alta concentración,0.0,8.0,1
+C03517,Ciudad Bolívar,Ciudad Bolívar • Calle 69K Sur con Transversal 22,🔴 Alto,1.0,1.0,Evaluar instalación de infraestructura de cestas,0.0,0.0,1
+C03794,Kennedy,Kennedy • Calle 49 Sur con Transversal 72D,🔴 Alto,1.0,1.0,Evaluar instalación de infraestructura de cestas,0.0,0.0,1
+C03776,Ciudad Bolívar,Ciudad Bolívar • Diagonal 68C Sur con Transversal 18X,🔴 Alto,1.0,1.0,Evaluar instalación de infraestructura de cestas,0.0,0.0,1
+C03833,Fontibón,Fontibón • Av. Ferrocarril entre Carrera 111A la Carrera 114,🔴 Alto,1.0,1.0,Inspección prioritaria por alta concentración,0.0,2.0,1
+C02639,Kennedy,Kennedy • Carrera 77V Bis a con Calle 53 Sur,🔴 Alto,1.0,1.0,Inspección prioritaria por alta concentración,0.0,18.0,1
+C03956,Fontibón,Fontibón • Calle 16H con Carrera 99 Sentido Occidente - Oriente,🔴 Alto,1.0,1.0,Inspección prioritaria por alta concentración,0.0,13.0,1
+C03778,Ciudad Bolívar,Ciudad Bolívar • Calle 68 Sur con Carrera 20,🔴 Alto,1.0,1.0,Inspección prioritaria por alta concentración,0.0,2.0,1
+C02651,Kennedy,Kennedy • Av. Guayacanes entre Calle 40B Sur a Calle 40 Sur,🔴 Alto,1.0,1.0,Inspección prioritaria por alta concentración,0.0,8.0,1
+C02647,Kennedy,Kennedy • Av. Ciudad de Cali de Calle 42B Bis Sur a Calle 42F Bis - Costado Oriental,🔴 Alto,1.0,1.0,Inspección prioritaria por alta concentración,0.0,18.0,1
+C04092,Fontibón,Fontibón • Calle 23 con Carrera 113,🔴 Alto,1.0,1.0,Inspección prioritaria por alta concentración,0.0,15.0,1
+C00587,Bosa,Bosa • Calle 72 Sur con Carrera 105B,🔴 Alto,1.0,1.0,Inspección prioritaria por alta concentración,0.0,26.0,1
+C08492,Suba,Suba • Carrera 58 entre 127 con 134,🔴 Alto,1.0,1.0,Inspección prioritaria por alta concentración,0.0,16.0,1
+C04087,Fontibón,Fontibón • Calle 20 con Carrera 103A,🔴 Alto,1.0,1.0,Evaluar instalación de infraestructura de cestas,0.0,0.0,1
+C04424,Tunjuelito,Tunjuelito • Calle 59A Sur con Av. 19,🔴 Alto,1.0,1.0,Inspección prioritaria por alta concentración,0.0,4.0,1
+C04167,Ciudad Bolívar,Ciudad Bolívar • Diagonal 62 Sur con Transversal 20D,🔴 Alto,1.0,1.0,Inspección prioritaria por alta concentración,0.0,34.0,1
+C04184,Kennedy,Kennedy • Av. Boyacã entre Calle 40 Sur a Transversal 72D Separador Vial,🔴 Alto,1.0,1.0,Inspección prioritaria por alta concentración,0.0,31.0,1
+C04349,Fontibón,Fontibón • Carrera 106A 107 entre Calle 23D a Calle 23G,🔴 Alto,1.0,1.0,Inspección prioritaria por alta concentración,0.0,2.0,1
+C04466,Kennedy,Kennedy • Carrera 86 con Calle 16C (costado Oriental),🔴 Alto,1.0,1.0,Evaluar instalación de infraestructura de cestas,0.0,0.0,1
+C04435,Tunjuelito,Tunjuelito • Calle 50B Sur con Carrera 37,🔴 Alto,1.0,1.0,Inspección prioritaria por alta concentración,0.0,1.0,1
+C04423,Ciudad Bolívar,Ciudad Bolívar • Carrera 19 con Calle 60B Sur,🔴 Alto,1.0,1.0,Inspección prioritaria por alta concentración,0.0,6.0,1
+C04551,Ciudad Bolívar,Ciudad Bolívar • Calle 60G Sur con Carrera 16C,🔴 Alto,1.0,1.0,Inspección prioritaria por alta concentración,0.0,22.0,1
+C00840,Bosa,Bosa • Calle 72 Sur con Carrera 90,🔴 Alto,1.0,1.0,Inspección prioritaria por alta concentración,0.0,14.0,1
+C00189,Bosa,Bosa • Calle 86 Sur con Carrera 78A,🔴 Alto,1.0,1.0,Inspección prioritaria por alta concentración,0.0,22.0,1
+C11093,Usaquén,Usaquén • Carrera 4 (ambos Costados) con Calle 189B,🔴 Alto,1.0,1.0,Inspección prioritaria por alta concentración,0.0,2.0,1
+C10822,Usaquén,Usaquén • Calle 161 con Carrera 8,🔴 Alto,1.0,1.0,Inspección prioritaria por alta concentración,0.0,22.0,1
+C08209,Barrios Unidos,Barrios Unidos • Av. Calle 68 con Carrera 27C,🔴 Alto,1.0,1.0,Inspección prioritaria por alta concentración,0.0,14.0,1
+C04618,Engativá,Engativá • Transversal 113F con Calle 67,🔴 Alto,1.0,1.0,Inspección prioritaria por alta concentración,0.0,28.0,1
+C08076,Barrios Unidos,Barrios Unidos • Calle 63C con Carrera 27B,🔴 Alto,1.0,1.0,Inspección prioritaria por alta concentración,0.0,29.0,1
+C08344,Barrios Unidos,Barrios Unidos • Av. Calle 80 con Carrera 53,🔴 Alto,1.0,1.0,Inspección prioritaria por alta concentración,0.0,6.0,1
+C04832,Kennedy,Kennedy • Av. Primero de Mayo con Carrera 68C,🔴 Alto,1.0,1.0,Inspección prioritaria por alta concentración,0.0,21.0,1
+C02399,Kennedy,Kennedy • Calle 38 Sur con Carrera 99A Costado Norte,🔴 Alto,1.0,1.0,Inspección prioritaria por alta concentración,0.0,26.0,1
+C04700,Kennedy,Kennedy • Carrera 68A entre Calle 36A Sur con Calle 37 Bis Sur,🔴 Alto,1.0,1.0,Inspección prioritaria por alta concentración,0.0,19.0,1
+C04746,Engativá,Engativá • Carrera 112D con Calle 68B,🔴 Alto,1.0,1.0,Inspección prioritaria por alta concentración,0.0,26.0,1
+C00966,Bosa,Bosa • Calle 72B Sur con Carrera 87C,🔴 Alto,1.0,1.0,Inspección prioritaria por alta concentración,0.0,6.0,1
+C00965,Bosa,Bosa • Calle 74 Sur con Av. 86,🔴 Alto,1.0,1.0,Evaluar instalación de infraestructura de cestas,0.0,0.0,1
+C07959,Barrios Unidos,Barrios Unidos • Diagonal 79B con Carrera 63,🔴 Alto,1.0,1.0,Inspección prioritaria por alta concentración,0.0,27.0,1
+C07955,Barrios Unidos,Barrios Unidos • Tranversal 56A Calle 73,🔴 Alto,1.0,1.0,Inspección prioritaria por alta concentración,0.0,35.0,1
+C08069,Teusaquillo,Teusaquillo • Carrera 24 con Calle 49,🔴 Alto,1.0,1.0,Inspección prioritaria por alta concentración,0.0,6.0,1
+C04881,Engativá,Engativá • Calle 77 con Carrera 119C,🔴 Alto,1.0,1.0,Inspección prioritaria por alta concentración,0.0,33.0,1
+C04876,Engativá,Engativá • Carrera 113 con Calle 70C,🔴 Alto,1.0,1.0,Inspección prioritaria por alta concentración,0.0,13.0,1
+C05005,Engativá,Engativá • Carrera 111C con Calle 71,🔴 Alto,1.0,1.0,Inspección prioritaria por alta concentración,0.0,13.0,1
+C02383,Kennedy,Kennedy • Calle 55 Sur con Carrera 80A a Carrera 80G,🔴 Alto,1.0,1.0,Inspección prioritaria por alta concentración,0.0,40.0,1
+C05070,Tunjuelito,Tunjuelito • Transversal 14 51 Sur,🔴 Alto,1.0,1.0,Inspección prioritaria por alta concentración,0.0,6.0,1
+C05122,Fontibón,Fontibón • Carrera 96 Bis B Calle 25D,🔴 Alto,1.0,1.0,Inspección prioritaria por alta concentración,0.0,14.0,1
+C05121,Fontibón,Fontibón • Carrera 96 entre Calle 24C con Calle 25D,🔴 Alto,1.0,1.0,Inspección prioritaria por alta concentración,0.0,6.0,1
+C05118,Fontibón,Fontibón • Carrera 90 con Call 24 Costado Oriente - Occidente,🔴 Alto,1.0,1.0,Inspección prioritaria por alta concentración,0.0,43.0,1
+C05249,Fontibón,Fontibón • Transversal 95 entre Calle 24F con Calle 25D,🔴 Alto,1.0,1.0,Inspección prioritaria por alta concentración,0.0,9.0,1
+C05247,Fontibón,Fontibón • Av. Ciudad de Cali con Calle 24D Interseccion Para Tomar la Av. la Esperanza,🔴 Alto,1.0,1.0,Inspección prioritaria por alta concentración,0.0,18.0,1
+C05256,Engativá,Engativá • Transversal 103 con Calle 63,🔴 Alto,1.0,1.0,Inspección prioritaria por alta concentración,0.0,10.0,1
+C05267,Engativá,Engativá • Carrera 114 con Calle 78,🔴 Alto,1.0,1.0,Inspección prioritaria por alta concentración,0.0,40.0,1
+C05332,Rafael Uribe Uribe,Rafael Uribe Uribe • Av. 14 44 Sur,🔴 Alto,1.0,1.0,Inspección prioritaria por alta concentración,0.0,9.0,1
+C05337,Rafael Uribe Uribe,Rafael Uribe Uribe • Carrera 27 con Calle 38 Sur,🔴 Alto,1.0,1.0,Inspección prioritaria por alta concentración,0.0,28.0,1
+C05375,Fontibón,Fontibón • Transversal 84A entre Calle 24D con Calle 24F,🔴 Alto,1.0,1.0,Inspección prioritaria por alta concentración,0.0,40.0,1
+C05371,Fontibón,Fontibón • Transversal 73A con Calle 23,🔴 Alto,1.0,1.0,Inspección prioritaria por alta concentración,0.0,15.0,1
+C08060,Los Mártires,Los Mártires • Calle 26 con Carrera 19,🔴 Alto,1.0,1.0,Inspección prioritaria por alta concentración,0.0,21.0,1
+C08084,Barrios Unidos,Barrios Unidos • Carrera 55 con Calle 75,🔴 Alto,1.0,1.0,Inspección prioritaria por alta concentración,0.0,33.0,1
+C02270,Kennedy,Kennedy • Calle 38 Sur de Carrera 89A Carrera 101,🔴 Alto,1.0,1.0,Evaluar instalación de infraestructura de cestas,0.0,0.0,1
+C07796,Los Mártires,Los Mártires • Calle 13 con Carrera 15,🔴 Alto,1.0,1.0,Inspección prioritaria por alta concentración,0.0,8.0,1
+C00846,Bosa,Bosa • Calle 63 Sur con Carrera 104A Bis,🔴 Alto,1.0,1.0,Inspección prioritaria por alta concentración,0.0,14.0,1
+C00958,Bosa,Bosa • Calle 73C Sur con Carrera 77I,🔴 Alto,1.0,1.0,Inspección prioritaria por alta concentración,0.0,14.0,1
+C07789,Santa Fe,Santa Fe • Barrio Las Cruces (Carrera 6 con Calle 2B 12),🔴 Alto,1.0,1.0,Inspección prioritaria por alta concentración,0.0,2.0,1
+C07924,Santa Fe,Santa Fe • Jimenez con Carrera 11 la Capuchina,🔴 Alto,1.0,1.0,Inspección prioritaria por alta concentración,0.0,12.0,1
+C02256,Kennedy,Kennedy • Carrera 81C con Calle 54 Sur,🔴 Alto,1.0,1.0,Inspección prioritaria por alta concentración,0.0,28.0,1
+C05397,Engativá,Engativá • Carrera 114 con Calle 79,🔴 Alto,1.0,1.0,Inspección prioritaria por alta concentración,0.0,22.0,1
+C07915,Santa Fe,Santa Fe • Calle 1A Este con Carrera 1C,🔴 Alto,1.0,1.0,Evaluar instalación de infraestructura de cestas,0.0,0.0,1
+C05437,Usme,Usme • Calle 72 Sur con Carrera 14L,🔴 Alto,1.0,1.0,Inspección prioritaria por alta concentración,0.0,38.0,1
+C05497,Fontibón,Fontibón • Av. Boyaca Costado Oriental con Calle 22,🔴 Alto,1.0,1.0,Inspección prioritaria por alta concentración,0.0,6.0,1
+C01220,Bosa,Bosa • Diagonal 71 Sur con Transversal 81,🔴 Alto,1.0,1.0,Inspección prioritaria por alta concentración,0.0,29.0,1
+C07663,Santa Fe,Santa Fe • Barrio Sagrado Corazón (Calle 6 con Carrera 9),🔴 Alto,1.0,1.0,Evaluar instalación de infraestructura de cestas,0.0,0.0,1
+C07659,San Cristóbal,San Cristóbal • Carrera 6 con Calle 1,🔴 Alto,1.0,1.0,Evaluar instalación de infraestructura de cestas,0.0,0.0,1
+C07675,Los Mártires,Los Mártires • Carrera 27 con Calle 23A,🔴 Alto,1.0,1.0,Inspección prioritaria por alta concentración,0.0,35.0,1
+C07672,Los Mártires,Los Mártires • Diagonal 19A con Transversal 21,🔴 Alto,1.0,1.0,Inspección prioritaria por alta concentración,0.0,8.0,1
+C05576,Rafael Uribe Uribe,Rafael Uribe Uribe • Calle 53 Sur con Carrera 4M,🔴 Alto,1.0,1.0,Inspección prioritaria por alta concentración,0.0,5.0,1
+C05563,Usme,Usme • Calle 76 Sur con Carrera 14A,🔴 Alto,1.0,1.0,Inspección prioritaria por alta concentración,0.0,13.0,1
+C05683,Usme,Usme • Carrera 7 con Calle 108 Sur,🔴 Alto,1.0,1.0,Inspección prioritaria por alta concentración,0.0,21.0,1
+C02140,Kennedy,Kennedy • Carrera 100A con Calle 42F Sur,🔴 Alto,1.0,1.0,Inspección prioritaria por alta concentración,0.0,2.0,1
+C05703,Usme,Usme • Diagonal 57A con Transversal 3B,🔴 Alto,1.0,1.0,Inspección prioritaria por alta concentración,0.0,19.0,1

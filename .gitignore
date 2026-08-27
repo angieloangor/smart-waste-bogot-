@@ -1,0 +1,20 @@
+# Entornos y caches de Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.env
+.env.*
+
+# Configuracion local de VS Code y notebooks
+.vscode/
+.ipynb_checkpoints/
+
+# Salidas temporales
+*.log
+*.tmp
+.DS_Store
+
+# Secretos de Streamlit
+.streamlit/secrets.toml
