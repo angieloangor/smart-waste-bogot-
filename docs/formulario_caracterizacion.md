@@ -4,28 +4,22 @@
 ## Sección 1 – Información general del equipo
 
 ### 1. Nombre del equipo:
-Introduzca el nombre del equipo
 
 SmartWaste Bogotá / Data Dolls
 
 ### 2. Entidad u organización a la que pertenece cada integrante
-Indique, para cada integrante y en el mismo orden de la siguiente pregunta, la entidad u organización a la que pertenece (Entidad Distrital, Alcaldía Local, Pontificia Universidad Javeriana, ciudadanía u otra).
 
-Ejemplo de respuesta:
 - Danna Vanessa Caballero Urrego: Universidad Externado de Colombia
 - Allison Michelle Loango Rayo: Universidad Externado de Colombia
 - Angie Katherine Loango Rayo: Universidad Externado de Colombia
 
 ### 3. Nombre completo, rol y perfil principal de cada integrante
-Indique para cada integrante, en una misma línea y en el mismo orden: Nombre completo. Rol dentro del equipo (Analista de datos, Analista de políticas públicas o Experto temático). Perfil principal (Servidor público o contratista de entidad distrital, estudiante, docente o investigador, ciudadanía u otro).
 
-Ejemplo de respuesta:
 - Danna Vanessa Caballero Urrego. Analista de datos. Estudiante
 - Allison Michelle Loango Rayo. Analista de políticas públicas. Estudiante
 - Angie Katherine Loango Rayo. Experto temático. Estudiante
 
 ### 4. Correo electrónico de contacto del equipo (líder):
-Introduzca el correo electrónico.
 
 danna.caballero@est.uexternado.edu.co
 
@@ -59,9 +53,7 @@ Se espera encontrar una relación entre la concentración de reportes, la presen
 ## Sección 3 – Datos y fuentes
 
 ### 11. Fuentes de datos identificadas (mínimo 2, preferiblemente provenientes del Portal de Datos Abiertos Bogotá)
-Para cada fuente indique: - Nombre del conjunto de datos. - Entidad fuente. - Enlace al dataset (si aplica).
 
-Ejemplo de respuesta para este proyecto:
 - Cestas de recolección. Secretaría Distrital / entidad responsable de gestión de residuos. Enlace no público o disponible en el repositorio del proyecto.
 - Macrorutas de barrido. Secretaría Distrital / entidad responsable de servicios de limpieza. Enlace no público o disponible en el repositorio del proyecto.
 - Puntos críticos de arrojo clandestino de residuos. Datos geográficos públicos asociados al problema urbano. Enlace no público o incluido en la carpeta de datos del proyecto.
@@ -89,7 +81,6 @@ Sí ☐ No ☐ Parcialmente ☒
 Sí, los datos tienen un fuerte componente geográfico y territorial, con capas espacializadas que permiten analizar la distribución del riesgo en la ciudad.
 
 ### 15. ¿Cuál es la principal entidad, sector o temática sobre la cual se enfoca el análisis?
-Ejemplos: movilidad, seguridad, ambiente, educación, participación ciudadana, gestión pública, salud, entre otros.
 
 Gestión pública / ambiente / residuos sólidos / servicios públicos urbanos.
 
@@ -186,6 +177,5 @@ Enliste los elementos que considera le podrían haber servido para desarrollar m
 - Validación institucional del modelo y variables utilizadas
 
 ### 25. Comentarios adicionales sobre el DataJam o el uso de datos abiertos
-Escriba sus comentarios (opcional)
 
 El ejercicio permite fortalecer el uso de datos abiertos para la generación de diagnósticos territoriales con enfoque operativo y de política pública. La combinación entre datos geográficos, infraestructura y gestión de residuos resulta especialmente útil para orientar decisiones institucionales más informadas.
