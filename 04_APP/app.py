@@ -80,6 +80,7 @@ st.markdown("""
     }
     [data-testid="stToolbar"] {
         color: var(--bogota-blue) !important;
+        display: none !important;
     }
     .block-container {
         max-width: 1440px;
@@ -831,18 +832,18 @@ st.markdown("""
         top: 0 !important;
         left: 0 !important;
         bottom: 0 !important;
-        width: 4px !important;
-        min-width: 4px !important;
-        max-width: 4px !important;
+        width: 1px !important;
+        min-width: 1px !important;
+        max-width: 1px !important;
         transform: none !important;
         background: transparent !important;
         border: 0 !important;
         box-shadow: none !important;
     }
     html body section[data-testid="stSidebar"] > div:first-child {
-        width: 4px !important;
-        min-width: 4px !important;
-        max-width: 4px !important;
+        width: 1px !important;
+        min-width: 1px !important;
+        max-width: 1px !important;
         padding: 0 !important;
     }
     html body section[data-testid="stSidebar"]:hover,
